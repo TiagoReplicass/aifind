@@ -1,0 +1,26 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+  functions = "netlify/functions"
+
+[build.environment]
+  NODE_VERSION = "18"
+
+[functions]
+  node_bundler = "esbuild"
+  included_files = [
+    "server/ml-data.json"
+  ]
+
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/server/api/:splat"
+  status = 200
+  force = true
+
+# Impostare queste variabili dal pannello Netlify (Site settings → Environment)
+# [build.environment]
+#   REDDIT_CLIENT_ID = "a7-ncqtwJzsQJcvTDuKP3A"
+#   REDDIT_CLIENT_SECRET = "C14bsarblea9O5CFlfoYC8Yjy_ypIw"
+#   REDDIT_USERNAME = "SpecificFlounder8015"
+#   REDDIT_PASSWORD = "(zrGJ5~DB54I"

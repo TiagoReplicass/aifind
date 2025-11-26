@@ -1,0 +1,1276 @@
+{
+  "userInteractions": [
+    [
+      "session_1762696180695_1dmggjecq",
+      [
+        {
+          "timestamp": 1762696187976,
+          "query": "dior",
+          "resultId": "1kdll89",
+          "action": "modal_open",
+          "metadata": {
+            "subreddit": "FashionReps",
+            "score": 296,
+            "quality_score": 1
+          }
+        },
+        {
+          "timestamp": 1762696187980,
+          "query": "dior",
+          "resultId": "1kdll89",
+          "action": "extract_links",
+          "metadata": {
+            "subreddit": "FashionReps",
+            "score": 296
+          }
+        },
+        {
+          "timestamp": 1762696193535,
+          "query": "dior",
+          "resultId": "18vydl8",
+          "action": "modal_open",
+          "metadata": {
+            "subreddit": "FashionReps",
+            "score": 1516,
+            "quality_score": 1
+          }
+        },
+        {
+          "timestamp": 1762696193537,
+          "query": "dior",
+          "resultId": "18vydl8",
+          "action": "extract_links",
+          "metadata": {
+            "subreddit": "FashionReps",
+            "score": 1516
+          }
+        },
+        {
+          "timestamp": 1762696196847,
+          "query": "dior",
+          "resultId": "1kfcrb3",
+          "action": "modal_open",
+          "metadata": {
+            "subreddit": "FashionReps",
+            "score": 128,
+            "quality_score": 1
+          }
+        },
+        {
+          "timestamp": 1762696196848,
+          "query": "dior",
+          "resultId": "1kfcrb3",
+          "action": "extract_links",
+          "metadata": {
+            "subreddit": "FashionReps",
+            "score": 128
+          }
+        },
+        {
+          "timestamp": 1762696201016,
+          "query": "dior",
+          "resultId": "165c1e5",
+          "action": "modal_open",
+          "metadata": {
+            "subreddit": "FashionReps",
+            "score": 430,
+            "quality_score": 1
+          }
+        },
+        {
+          "timestamp": 1762696201017,
+          "query": "dior",
+          "resultId": "165c1e5",
+          "action": "extract_links",
+          "metadata": {
+            "subreddit": "FashionReps",
+            "score": 430
+          }
+        }
+      ]
+    ],
+    [
+      "session_1762696424610_u26yt9pax",
+      [
+        {
+          "timestamp": 1762696436984,
+          "query": "adidas hoodie",
+          "resultId": "g0n14s",
+          "action": "modal_open",
+          "metadata": {
+            "subreddit": "FashionReps",
+            "score": 586,
+            "quality_score": 1
+          }
+        },
+        {
+          "timestamp": 1762696436985,
+          "query": "adidas hoodie",
+          "resultId": "g0n14s",
+          "action": "extract_links",
+          "metadata": {
+            "subreddit": "FashionReps",
+            "score": 586
+          }
+        }
+      ]
+    ],
+    [
+      "session_1762875434316_8u3zpcvaq",
+      [
+        {
+          "timestamp": 1762875438326,
+          "query": "b30",
+          "resultId": "manual_1762875436_jhoye1mr67",
+          "action": "modal_open",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0,
+            "quality_score": 1
+          }
+        },
+        {
+          "timestamp": 1762875438332,
+          "query": "b30",
+          "resultId": "manual_1762875436_jhoye1mr67",
+          "action": "extract_links",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0
+          }
+        },
+        {
+          "timestamp": 1762875447281,
+          "query": "b30",
+          "resultId": "manual_1762875436_jhoye1mr67",
+          "action": "modal_open",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0,
+            "quality_score": 1
+          }
+        },
+        {
+          "timestamp": 1762875447283,
+          "query": "b30",
+          "resultId": "manual_1762875436_jhoye1mr67",
+          "action": "extract_links",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0
+          }
+        }
+      ]
+    ],
+    [
+      "session_1762875503485_fywdwpqlk",
+      [
+        {
+          "timestamp": 1762875506621,
+          "query": "dior",
+          "resultId": "manual_1762875505_wyw7wvc3rt",
+          "action": "modal_open",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0,
+            "quality_score": 1
+          }
+        },
+        {
+          "timestamp": 1762875506622,
+          "query": "dior",
+          "resultId": "manual_1762875505_wyw7wvc3rt",
+          "action": "extract_links",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0
+          }
+        }
+      ]
+    ],
+    [
+      "session_1762875598083_y5e79m6e1",
+      [
+        {
+          "timestamp": 1762875668695,
+          "query": "dior",
+          "resultId": "manual_1762875667_4xxagdi1w39",
+          "action": "modal_open",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0,
+            "quality_score": 1
+          }
+        },
+        {
+          "timestamp": 1762875668696,
+          "query": "dior",
+          "resultId": "manual_1762875667_4xxagdi1w39",
+          "action": "extract_links",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0
+          }
+        }
+      ]
+    ],
+    [
+      "session_1762875683503_lr1e65b3j",
+      [
+        {
+          "timestamp": 1762875686494,
+          "query": "dior",
+          "resultId": "manual_1762875685_knc0ou8l7c9",
+          "action": "modal_open",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0,
+            "quality_score": 1
+          }
+        },
+        {
+          "timestamp": 1762875686495,
+          "query": "dior",
+          "resultId": "manual_1762875685_knc0ou8l7c9",
+          "action": "extract_links",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0
+          }
+        }
+      ]
+    ],
+    [
+      "session_1762875952897_wr9kpwug0",
+      [
+        {
+          "timestamp": 1762875957039,
+          "query": "dior",
+          "resultId": "manual_1762875955_sqsdd9jpx9",
+          "action": "modal_open",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0,
+            "quality_score": 1
+          }
+        },
+        {
+          "timestamp": 1762875957041,
+          "query": "dior",
+          "resultId": "manual_1762875955_sqsdd9jpx9",
+          "action": "extract_links",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0
+          }
+        },
+        {
+          "timestamp": 1762876077398,
+          "query": "dior",
+          "resultId": "manual_1762875955_sqsdd9jpx9",
+          "action": "modal_open",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0,
+            "quality_score": 1
+          }
+        },
+        {
+          "timestamp": 1762876077399,
+          "query": "dior",
+          "resultId": "manual_1762875955_sqsdd9jpx9",
+          "action": "extract_links",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0
+          }
+        },
+        {
+          "timestamp": 1762876084646,
+          "query": "dior",
+          "resultId": "manual_1762876083_n97mn31cz5i",
+          "action": "modal_open",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0,
+            "quality_score": 1
+          }
+        },
+        {
+          "timestamp": 1762876084646,
+          "query": "dior",
+          "resultId": "manual_1762876083_n97mn31cz5i",
+          "action": "extract_links",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0
+          }
+        },
+        {
+          "timestamp": 1762876301462,
+          "query": "dior",
+          "resultId": "manual_1762876083_n97mn31cz5i",
+          "action": "modal_open",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0,
+            "quality_score": 1
+          }
+        },
+        {
+          "timestamp": 1762876301463,
+          "query": "dior",
+          "resultId": "manual_1762876083_n97mn31cz5i",
+          "action": "extract_links",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0
+          }
+        },
+        {
+          "timestamp": 1762876566526,
+          "query": "dior",
+          "resultId": "manual_1762876083_n97mn31cz5i",
+          "action": "modal_open",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0,
+            "quality_score": 1
+          }
+        },
+        {
+          "timestamp": 1762876566527,
+          "query": "dior",
+          "resultId": "manual_1762876083_n97mn31cz5i",
+          "action": "extract_links",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0
+          }
+        },
+        {
+          "timestamp": 1762876669730,
+          "query": "dior",
+          "resultId": "manual_1762876083_n97mn31cz5i",
+          "action": "modal_open",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0,
+            "quality_score": 1
+          }
+        },
+        {
+          "timestamp": 1762876669734,
+          "query": "dior",
+          "resultId": "manual_1762876083_n97mn31cz5i",
+          "action": "extract_links",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0
+          }
+        },
+        {
+          "timestamp": 1762876733190,
+          "query": "dior",
+          "resultId": "manual_1762876083_n97mn31cz5i",
+          "action": "modal_open",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0,
+            "quality_score": 1
+          }
+        },
+        {
+          "timestamp": 1762876733191,
+          "query": "dior",
+          "resultId": "manual_1762876083_n97mn31cz5i",
+          "action": "extract_links",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0
+          }
+        },
+        {
+          "timestamp": 1762876752487,
+          "query": "dior",
+          "resultId": "manual_1762876083_n97mn31cz5i",
+          "action": "modal_open",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0,
+            "quality_score": 1
+          }
+        },
+        {
+          "timestamp": 1762876752488,
+          "query": "dior",
+          "resultId": "manual_1762876083_n97mn31cz5i",
+          "action": "extract_links",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0
+          }
+        },
+        {
+          "timestamp": 1762876768823,
+          "query": "dior",
+          "resultId": "manual_1762876083_n97mn31cz5i",
+          "action": "modal_open",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0,
+            "quality_score": 1
+          }
+        },
+        {
+          "timestamp": 1762876768824,
+          "query": "dior",
+          "resultId": "manual_1762876083_n97mn31cz5i",
+          "action": "extract_links",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0
+          }
+        },
+        {
+          "timestamp": 1762876835815,
+          "query": "dior",
+          "resultId": "manual_1762876083_n97mn31cz5i",
+          "action": "modal_open",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0,
+            "quality_score": 1
+          }
+        },
+        {
+          "timestamp": 1762876835816,
+          "query": "dior",
+          "resultId": "manual_1762876083_n97mn31cz5i",
+          "action": "extract_links",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0
+          }
+        },
+        {
+          "timestamp": 1762877264235,
+          "query": "dior",
+          "resultId": "manual_1762876083_n97mn31cz5i",
+          "action": "modal_open",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0,
+            "quality_score": 1
+          }
+        },
+        {
+          "timestamp": 1762877264237,
+          "query": "dior",
+          "resultId": "manual_1762876083_n97mn31cz5i",
+          "action": "extract_links",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0
+          }
+        },
+        {
+          "timestamp": 1762877676054,
+          "query": "dior",
+          "resultId": "manual_1762876083_n97mn31cz5i",
+          "action": "modal_open",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0,
+            "quality_score": 1
+          }
+        },
+        {
+          "timestamp": 1762877713702,
+          "query": "dior",
+          "resultId": "manual_1762877709_uxp22ftcv2",
+          "action": "modal_open",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0,
+            "quality_score": 1
+          }
+        },
+        {
+          "timestamp": 1762877713703,
+          "query": "dior",
+          "resultId": "manual_1762877709_uxp22ftcv2",
+          "action": "extract_links",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0
+          }
+        },
+        {
+          "timestamp": 1762877806793,
+          "query": "dior",
+          "resultId": "manual_1762877709_uxp22ftcv2",
+          "action": "modal_open",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0,
+            "quality_score": 1
+          }
+        },
+        {
+          "timestamp": 1762877980856,
+          "query": "dior",
+          "resultId": "manual_1762877976_uf7xt1fcxn",
+          "action": "modal_open",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0,
+            "quality_score": 1
+          }
+        },
+        {
+          "timestamp": 1762878026934,
+          "query": "moncler",
+          "resultId": "manual_1762877982_8omptmgrksj",
+          "action": "modal_open",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0,
+            "quality_score": 1
+          }
+        },
+        {
+          "timestamp": 1762878026935,
+          "query": "moncler",
+          "resultId": "manual_1762877982_8omptmgrksj",
+          "action": "extract_links",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0
+          }
+        },
+        {
+          "timestamp": 1762878393847,
+          "query": "moncler",
+          "resultId": "manual_1762877982_8omptmgrksj",
+          "action": "modal_open",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0,
+            "quality_score": 1
+          }
+        },
+        {
+          "timestamp": 1762878637162,
+          "query": "moncler",
+          "resultId": "manual_1762877982_8omptmgrksj",
+          "action": "modal_open",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0,
+            "quality_score": 1
+          }
+        },
+        {
+          "timestamp": 1762878637163,
+          "query": "moncler",
+          "resultId": "manual_1762877982_8omptmgrksj",
+          "action": "extract_links",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0
+          }
+        },
+        {
+          "timestamp": 1762878738592,
+          "query": "moncler",
+          "resultId": "manual_1762877982_8omptmgrksj",
+          "action": "modal_open",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0,
+            "quality_score": 1
+          }
+        },
+        {
+          "timestamp": 1762878738592,
+          "query": "moncler",
+          "resultId": "manual_1762877982_8omptmgrksj",
+          "action": "extract_links",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0
+          }
+        },
+        {
+          "timestamp": 1762878888334,
+          "query": "moncler",
+          "resultId": "manual_1762877982_8omptmgrksj",
+          "action": "modal_open",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0,
+            "quality_score": 1
+          }
+        }
+      ]
+    ],
+    [
+      "session_1762878893956_rqfqxs40g",
+      [
+        {
+          "timestamp": 1762878900648,
+          "query": "moncler",
+          "resultId": "manual_1762878897_7brq8ae3b6s",
+          "action": "modal_open",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0,
+            "quality_score": 1
+          }
+        },
+        {
+          "timestamp": 1762878900648,
+          "query": "moncler",
+          "resultId": "manual_1762878897_7brq8ae3b6s",
+          "action": "extract_links",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0
+          }
+        },
+        {
+          "timestamp": 1762878932830,
+          "query": "moncler",
+          "resultId": "manual_1762878897_m33w9hp9eq",
+          "action": "modal_open",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0,
+            "quality_score": 1
+          }
+        },
+        {
+          "timestamp": 1762878932831,
+          "query": "moncler",
+          "resultId": "manual_1762878897_m33w9hp9eq",
+          "action": "extract_links",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0
+          }
+        }
+      ]
+    ],
+    [
+      "session_1762879002103_qdvzbokuv",
+      [
+        {
+          "timestamp": 1762879019807,
+          "query": "moncler",
+          "resultId": "manual_1762879017_h1o7gm6c1xl",
+          "action": "modal_open",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0,
+            "quality_score": 1
+          }
+        }
+      ]
+    ],
+    [
+      "session_1762890508031_rt8bfa2lb",
+      [
+        {
+          "timestamp": 1762890515027,
+          "query": "moncler",
+          "resultId": "manual_1762890511_g6ortnks8ka",
+          "action": "modal_open",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0,
+            "quality_score": 1
+          }
+        },
+        {
+          "timestamp": 1762890515030,
+          "query": "moncler",
+          "resultId": "manual_1762890511_g6ortnks8ka",
+          "action": "extract_links",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0
+          }
+        }
+      ]
+    ],
+    [
+      "session_1762891829212_thzue9msi",
+      [
+        {
+          "timestamp": 1762891834401,
+          "query": "jordan",
+          "resultId": "manual_1762891831_9kk4u7gtn8d",
+          "action": "modal_open",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0,
+            "quality_score": 1
+          }
+        },
+        {
+          "timestamp": 1762891834401,
+          "query": "jordan",
+          "resultId": "manual_1762891831_9kk4u7gtn8d",
+          "action": "extract_links",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0
+          }
+        }
+      ]
+    ],
+    [
+      "session_1762892095693_0irwbxd5o",
+      [
+        {
+          "timestamp": 1762892103473,
+          "query": "dior",
+          "resultId": "manual_1762892098_ajbzrbgz67u",
+          "action": "modal_open",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0,
+            "quality_score": 1
+          }
+        },
+        {
+          "timestamp": 1762892103474,
+          "query": "dior",
+          "resultId": "manual_1762892098_ajbzrbgz67u",
+          "action": "extract_links",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0
+          }
+        },
+        {
+          "timestamp": 1762892108810,
+          "query": "dior",
+          "resultId": "manual_1762892098_bvtei8umzt5",
+          "action": "modal_open",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0,
+            "quality_score": 1
+          }
+        },
+        {
+          "timestamp": 1762892108810,
+          "query": "dior",
+          "resultId": "manual_1762892098_bvtei8umzt5",
+          "action": "extract_links",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0
+          }
+        },
+        {
+          "timestamp": 1762892218346,
+          "query": "dior",
+          "resultId": "manual_1762892098_bvtei8umzt5",
+          "action": "modal_open",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0,
+            "quality_score": 1
+          }
+        },
+        {
+          "timestamp": 1762892218348,
+          "query": "dior",
+          "resultId": "manual_1762892098_bvtei8umzt5",
+          "action": "extract_links",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0
+          }
+        }
+      ]
+    ],
+    [
+      "session_1762892321987_138n0d72i",
+      [
+        {
+          "timestamp": 1762892651471,
+          "query": "moncler",
+          "resultId": "manual_1762892324_8qe3vv0blif",
+          "action": "modal_open",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0,
+            "quality_score": 1
+          }
+        },
+        {
+          "timestamp": 1762892651472,
+          "query": "moncler",
+          "resultId": "manual_1762892324_8qe3vv0blif",
+          "action": "extract_links",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0
+          }
+        },
+        {
+          "timestamp": 1762892979211,
+          "query": "moncler",
+          "resultId": "manual_1762892324_8qe3vv0blif",
+          "action": "modal_open",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0,
+            "quality_score": 1
+          }
+        },
+        {
+          "timestamp": 1762892979212,
+          "query": "moncler",
+          "resultId": "manual_1762892324_8qe3vv0blif",
+          "action": "extract_links",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0
+          }
+        },
+        {
+          "timestamp": 1762893552108,
+          "query": "moncler",
+          "resultId": "manual_1762892324_21vkv5getfb",
+          "action": "modal_open",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0,
+            "quality_score": 1
+          }
+        },
+        {
+          "timestamp": 1762893552110,
+          "query": "moncler",
+          "resultId": "manual_1762892324_21vkv5getfb",
+          "action": "extract_links",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0
+          }
+        }
+      ]
+    ],
+    [
+      "session_1762892732594_4tsejy6mq",
+      [
+        {
+          "timestamp": 1762892959359,
+          "query": "dior",
+          "resultId": "manual_1762892736_loyw1fg5ytb",
+          "action": "modal_open",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0,
+            "quality_score": 1
+          }
+        },
+        {
+          "timestamp": 1762892959360,
+          "query": "dior",
+          "resultId": "manual_1762892736_loyw1fg5ytb",
+          "action": "extract_links",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0
+          }
+        }
+      ]
+    ],
+    [
+      "session_1762893087764_h0h7wipz7",
+      [
+        {
+          "timestamp": 1762893135805,
+          "query": "dior",
+          "resultId": "manual_1762893131_vojax7uzq8",
+          "action": "modal_open",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0,
+            "quality_score": 1
+          }
+        },
+        {
+          "timestamp": 1762893135806,
+          "query": "dior",
+          "resultId": "manual_1762893131_vojax7uzq8",
+          "action": "extract_links",
+          "metadata": {
+            "subreddit": "manual",
+            "score": 0
+          }
+        }
+      ]
+    ]
+  ],
+  "queryPatterns": [
+    [
+      "jordan",
+      {
+        "boost": 1.22,
+        "keywords": [
+          "sneakers",
+          "shoes",
+          "basketball",
+          "manual"
+        ],
+        "frequency": 3,
+        "successRate": 0.75
+      }
+    ],
+    [
+      "yeezy",
+      {
+        "boost": 1.3,
+        "keywords": [
+          "adidas",
+          "kanye",
+          "boost"
+        ],
+        "frequency": 1,
+        "successRate": 0.7
+      }
+    ],
+    [
+      "supreme",
+      {
+        "boost": 1.1,
+        "keywords": [
+          "streetwear",
+          "box logo",
+          "drop"
+        ],
+        "frequency": 1,
+        "successRate": 0.7
+      }
+    ],
+    [
+      "qc",
+      {
+        "boost": 1.4,
+        "keywords": [
+          "quality",
+          "check",
+          "review"
+        ],
+        "frequency": 1,
+        "successRate": 0.7
+      }
+    ],
+    [
+      "w2c",
+      {
+        "boost": 1.5,
+        "keywords": [
+          "where",
+          "cop",
+          "buy",
+          "link"
+        ],
+        "frequency": 1,
+        "successRate": 0.7
+      }
+    ],
+    [
+      "dior",
+      {
+        "boost": 1.4800000000000004,
+        "keywords": [
+          "FashionReps",
+          "manual"
+        ],
+        "frequency": 51,
+        "successRate": 1
+      }
+    ],
+    [
+      "adidas",
+      {
+        "boost": 1.02,
+        "keywords": [
+          "FashionReps"
+        ],
+        "frequency": 2,
+        "successRate": 0.55
+      }
+    ],
+    [
+      "hoodie",
+      {
+        "boost": 1.02,
+        "keywords": [
+          "FashionReps"
+        ],
+        "frequency": 2,
+        "successRate": 0.55
+      }
+    ],
+    [
+      "b30",
+      {
+        "boost": 1.04,
+        "keywords": [
+          "manual"
+        ],
+        "frequency": 4,
+        "successRate": 0.6000000000000001
+      }
+    ],
+    [
+      "moncler",
+      {
+        "boost": 1.1800000000000002,
+        "keywords": [
+          "manual"
+        ],
+        "frequency": 21,
+        "successRate": 0.9500000000000004
+      }
+    ]
+  ],
+  "clickThroughRates": [
+    [
+      "Dior:1kdll89",
+      {
+        "impressions": 2,
+        "clicks": 0,
+        "bookmarks": 0,
+        "extractions": 1
+      }
+    ],
+    [
+      "Dior:18vydl8",
+      {
+        "impressions": 2,
+        "clicks": 0,
+        "bookmarks": 0,
+        "extractions": 1
+      }
+    ],
+    [
+      "Dior:1kfcrb3",
+      {
+        "impressions": 2,
+        "clicks": 0,
+        "bookmarks": 0,
+        "extractions": 1
+      }
+    ],
+    [
+      "Dior:165c1e5",
+      {
+        "impressions": 2,
+        "clicks": 0,
+        "bookmarks": 0,
+        "extractions": 1
+      }
+    ],
+    [
+      "Adidas hoodie:g0n14s",
+      {
+        "impressions": 2,
+        "clicks": 0,
+        "bookmarks": 0,
+        "extractions": 1
+      }
+    ],
+    [
+      "b30:manual_1762875436_jhoye1mr67",
+      {
+        "impressions": 4,
+        "clicks": 0,
+        "bookmarks": 0,
+        "extractions": 2
+      }
+    ],
+    [
+      "dior:manual_1762875505_wyw7wvc3rt",
+      {
+        "impressions": 2,
+        "clicks": 0,
+        "bookmarks": 0,
+        "extractions": 1
+      }
+    ],
+    [
+      "dior:manual_1762875667_4xxagdi1w39",
+      {
+        "impressions": 2,
+        "clicks": 0,
+        "bookmarks": 0,
+        "extractions": 1
+      }
+    ],
+    [
+      "dior:manual_1762875685_knc0ou8l7c9",
+      {
+        "impressions": 2,
+        "clicks": 0,
+        "bookmarks": 0,
+        "extractions": 1
+      }
+    ],
+    [
+      "dior:manual_1762875955_sqsdd9jpx9",
+      {
+        "impressions": 4,
+        "clicks": 0,
+        "bookmarks": 0,
+        "extractions": 2
+      }
+    ],
+    [
+      "dior:manual_1762876083_n97mn31cz5i",
+      {
+        "impressions": 19,
+        "clicks": 0,
+        "bookmarks": 0,
+        "extractions": 9
+      }
+    ],
+    [
+      "dior:manual_1762877709_uxp22ftcv2",
+      {
+        "impressions": 3,
+        "clicks": 0,
+        "bookmarks": 0,
+        "extractions": 1
+      }
+    ],
+    [
+      "Dior:manual_1762877976_uf7xt1fcxn",
+      {
+        "impressions": 1,
+        "clicks": 0,
+        "bookmarks": 0,
+        "extractions": 0
+      }
+    ],
+    [
+      "moncler:manual_1762877982_8omptmgrksj",
+      {
+        "impressions": 8,
+        "clicks": 0,
+        "bookmarks": 0,
+        "extractions": 3
+      }
+    ],
+    [
+      "Moncler:manual_1762878897_7brq8ae3b6s",
+      {
+        "impressions": 2,
+        "clicks": 0,
+        "bookmarks": 0,
+        "extractions": 1
+      }
+    ],
+    [
+      "Moncler:manual_1762878897_m33w9hp9eq",
+      {
+        "impressions": 2,
+        "clicks": 0,
+        "bookmarks": 0,
+        "extractions": 1
+      }
+    ],
+    [
+      "moncler:manual_1762879017_h1o7gm6c1xl",
+      {
+        "impressions": 1,
+        "clicks": 0,
+        "bookmarks": 0,
+        "extractions": 0
+      }
+    ],
+    [
+      "Moncler:manual_1762890511_g6ortnks8ka",
+      {
+        "impressions": 2,
+        "clicks": 0,
+        "bookmarks": 0,
+        "extractions": 1
+      }
+    ],
+    [
+      "jordan:manual_1762891831_9kk4u7gtn8d",
+      {
+        "impressions": 2,
+        "clicks": 0,
+        "bookmarks": 0,
+        "extractions": 1
+      }
+    ],
+    [
+      "dior:manual_1762892098_ajbzrbgz67u",
+      {
+        "impressions": 2,
+        "clicks": 0,
+        "bookmarks": 0,
+        "extractions": 1
+      }
+    ],
+    [
+      "dior:manual_1762892098_bvtei8umzt5",
+      {
+        "impressions": 4,
+        "clicks": 0,
+        "bookmarks": 0,
+        "extractions": 2
+      }
+    ],
+    [
+      "moncler:manual_1762892324_8qe3vv0blif",
+      {
+        "impressions": 4,
+        "clicks": 0,
+        "bookmarks": 0,
+        "extractions": 2
+      }
+    ],
+    [
+      "dior:manual_1762892736_loyw1fg5ytb",
+      {
+        "impressions": 2,
+        "clicks": 0,
+        "bookmarks": 0,
+        "extractions": 1
+      }
+    ],
+    [
+      "dior:manual_1762893131_vojax7uzq8",
+      {
+        "impressions": 2,
+        "clicks": 0,
+        "bookmarks": 0,
+        "extractions": 1
+      }
+    ],
+    [
+      "moncler:manual_1762892324_21vkv5getfb",
+      {
+        "impressions": 2,
+        "clicks": 0,
+        "bookmarks": 0,
+        "extractions": 1
+      }
+    ]
+  ],
+  "qualityFeedback": [],
+  "lastUpdated": 1762893552110
+}
