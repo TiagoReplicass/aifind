@@ -1,8 +1,6 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
 import './App.css';
 
-const PRESET_SUBS = ['FashionReps','FashionRepsBST','Repsneakers','StreetwearReps'];
-
 // Utility function to format time ago
 const timeAgo = (timestamp: number): string => {
   const now = Date.now() / 1000;
